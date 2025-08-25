@@ -82,7 +82,7 @@ export default function Home() {
         </h1>
         
         <p className="text-xl md:text-2xl font-light mb-6 opacity-90 animate-fade-in-up animation-delay-200">
-          We're crafting something extraordinary
+          We are crafting something extraordinary
         </p>
         
         <p className="text-lg mb-12 opacity-80 max-w-2xl mx-auto leading-relaxed animate-fade-in-up animation-delay-400">
